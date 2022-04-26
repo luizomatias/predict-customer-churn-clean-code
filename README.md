@@ -8,7 +8,7 @@ This project aims to predict churn according to customers credit card. The proje
 ## Files and data description
 The project have the following structure:  
 
-
+```
 ├── churn_library.py        --------> This file contains the functions to the churn model
 ├── churn_notebook.ipynb    --------> Jupyter notebook from churn model 
 ├── churn_script_logging_and_tests.py  ------> This file contains the tests functions to test churn functions
@@ -34,6 +34,7 @@ The project have the following structure:
 │
 ├── README.md
 ├── requirements_py3.6.txt
+```
 
 ## Running Files
 You can use ipython or python to run the files. You can run the model with:
